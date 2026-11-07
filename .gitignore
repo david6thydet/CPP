@@ -1,0 +1,14 @@
+
+# Compiled C++ executables
+*.exe
+
+# Object files
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build directories
+build/
+dist/
